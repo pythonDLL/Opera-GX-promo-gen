@@ -1,1 +1,1 @@
-# Opera-GX-promo-gen
+gay ass promo gen
