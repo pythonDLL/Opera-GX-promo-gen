@@ -1,4 +1,4 @@
-"""Really gay ass code."""
+"""gay ass code."""
 import httpx
 from colorama import Fore
 import os, time, ctypes, threading, json
